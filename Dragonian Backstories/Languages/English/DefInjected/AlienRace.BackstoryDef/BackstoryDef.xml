@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CHILD BACKSTORIES -->
+
+  <MDB_C01.title>Adopted Dragonian</MDB_C01.title>
+  <MDB_C01.titleShort>Adopted</MDB_C01.titleShort>
+  <MDB_C01.baseDescription>[PAWN_nameDef] was adopted when young from the wild and raised. As [PAWN_pronoun] grew they seemed to enjoy cooking, and eating it, even if it was a mess of ingredients.</MDB_C01.baseDescription>
+
+  <MDB_C02.title>Dragonian Forest Tender</MDB_C02.title>
+  <MDB_C02.titleShort>Arborist</MDB_C02.titleShort>
+  <MDB_C02.baseDescription>[PAWN_nameDef] grew up in the wild living in balance with nature tending to plant-life.</MDB_C02.baseDescription>
+
+  <MDB_C03.title>Dragonian Tunneldweller</MDB_C03.title>
+  <MDB_C03.titleShort>Tunneldweller</MDB_C03.titleShort>
+  <MDB_C03.baseDescription>[PAWN_nameDef] was raised within a cavernous cave system digging tunnels to farm the various fungi that grew. They rarely ventured from the dark tunnels of their home.</MDB_C03.baseDescription>
+
+  <MDB_C04.title>Dragonian Thief</MDB_C04.title>
+  <MDB_C04.titleShort>Thief</MDB_C04.titleShort>
+  <MDB_C04.baseDescription>[PAWN_nameDef] learned at a young age to survive by pilfering delightful goods from rich Glitterworld citizens visiting the rimworlds for whatever nefarious interests they had.</MDB_C04.baseDescription>
+
+  <MDB_C05.title>Dragonian Wonderchild</MDB_C05.title>
+  <MDB_C05.titleShort>Wonderchild</MDB_C05.titleShort>
+  <MDB_C05.baseDescription>[PAWN_nameDef] was born gifted from birth. Cleaning, though, was still beyond them. And their life was somewhat isolated due to their intelligence leaving them with few friends and lacking social skills.</MDB_C05.baseDescription>
+
+  <MDB_C06.title>Dragonian Apprentice</MDB_C06.title>
+  <MDB_C06.titleShort>Apprentice</MDB_C06.titleShort>
+  <MDB_C06.baseDescription>[PAWN_nameDef] was adopted when young from the wild and raised. They grew to dislike getting their hands messy, favouring the sleek workstations of the research lab as they grew.</MDB_C06.baseDescription>
+
+  <MDB_C07.title>Dragonian Farmchild</MDB_C07.title>
+  <MDB_C07.titleShort>Farmchild</MDB_C07.titleShort>
+  <MDB_C07.baseDescription>[PAWN_nameDef] was raised on a farm and helped in the daily life of raising livestock and growing crops.</MDB_C07.baseDescription>
+
+  <MDB_C08.title>Dragonian Runaway</MDB_C08.title>
+  <MDB_C08.titleShort>Runaway</MDB_C08.titleShort>
+  <MDB_C08.baseDescription>[PAWN_nameDef] has wandered the rimworlds for much of their young life, learning many aspects of skills to survive and mainly traveling by stowing away on what transport they can get. They keep to themselves and their solitary and somewhat secretive life left them with few to talk to.</MDB_C08.baseDescription>
+
+
+  <!-- ADULT BACKSTORIES -->
+
+  <MDB_A01.title>Dragonian Assistant</MDB_A01.title>
+  <MDB_A01.titleShort>Assistant</MDB_A01.titleShort>
+  <MDB_A01.baseDescription>[PAWN_nameDef] was brought up trained as an assistant cook along side someone on a distant Glitterworld perfecting dishes with their fine-tuned sense of smell and taste. However [PAWN_pronoun] was ditched on a RimWorld for the chef to reap the fame instead.</MDB_A01.baseDescription>
+
+  <MDB_A02.title>Dragonian Guardian</MDB_A02.title>
+  <MDB_A02.titleShort>Guardian</MDB_A02.titleShort>
+  <MDB_A02.baseDescription>After a life in the forest [PAWN_nameDef] became very close with nature, they do not care for luxuries and subsisted off wild berries and fruit.</MDB_A02.baseDescription>
+
+  <MDB_A03.title>Dragonian Feral</MDB_A03.title>
+  <MDB_A03.titleShort>Feral</MDB_A03.titleShort>
+  <MDB_A03.baseDescription>[PAWN_nameDef] was brought up from childhood raised in captivity and forced to fight to guard their owner with little concern for themselves. After getting injured in a fight they were left behind with little regard forcing [PAWN_nameDef] to pick themselves back up though the hard life left them with very little skill aside mindless violence.</MDB_A03.baseDescription>
+
+  <MDB_A04.title>Dragonian Courtesan</MDB_A04.title>
+  <MDB_A04.titleShort>Courtesan</MDB_A04.titleShort>
+  <MDB_A04.baseDescription>Taken from the wild, [PAWN_nameDef] was groomed and trained to see to the services of the wealthy on Glitterworlds. They were then discarded once the next popular one came along.</MDB_A04.baseDescription>
+
+  <MDB_A05.title>Dragonian Companion</MDB_A05.title>
+  <MDB_A05.titleShort>Companion</MDB_A05.titleShort>
+  <MDB_A05.baseDescription>[PAWN_nameDef] was a companion to someone from a glitterworld, there as a simple servant to them and to be eye candy as a rare object to ogle at. One day their owner took a trip to a rimworld, then left [PAWN_nameDef] behind.</MDB_A05.baseDescription>
+
+  <MDB_A06.title>Dragonian Citizen</MDB_A06.title>
+  <MDB_A06.titleShort>Citizen</MDB_A06.titleShort>
+  <MDB_A06.baseDescription>[PAWN_nameDef] integrated from the wild into small rimworld settlements providing help where they were needed with [PAWN_pronoun] superior strength, and grew to become your average citizen of the rim, the jack of all trades.</MDB_A06.baseDescription>
+
+  <MDB_A07.title>Dragonian Shepherd</MDB_A07.title>
+  <MDB_A07.titleShort>Shepherd</MDB_A07.titleShort>
+  <MDB_A07.baseDescription>Out on the rim, a lot of produce comes from livestock. [PAWN_nameDef] assisted a lot in taking care of the farms livestock to get the most out of their animals.They didn't care much for the rich side of life, caring for their animals was what made them happy.</MDB_A07.baseDescription>
+
+  <MDB_A08.title>Dragonian Greenhand</MDB_A08.title>
+  <MDB_A08.titleShort>Greenhand</MDB_A08.titleShort>
+  <MDB_A08.baseDescription>Depending on the quality of the soil sometimes growing crops on the rimworlds can be difficult, [PAWN_nameDef] was a botanist. And lo did the rimworld tremble before [PAWN_pronoun]'s skills. They sure hated rocks and caves though.</MDB_A08.baseDescription>
+
+
+  <!-- ORIGINAL STUFF BELOW -->
+
+  <Dragonian_WildChild.title>Dragonian Wild Born</Dragonian_WildChild.title>
+  <Dragonian_WildChild.titleShort>Wild Born</Dragonian_WildChild.titleShort>
+  <Dragonian_WildChild.baseDescription>[PAWN_nameDef] is wild dragonian who grew up in the forests.</Dragonian_WildChild.baseDescription>
+
+  <Dragonian_Wild.title>Wild Dragonian</Dragonian_Wild.title>
+  <Dragonian_Wild.titleShort>Wild Dragonian</Dragonian_Wild.titleShort>
+  <Dragonian_Wild.baseDescription>[PAWN_nameDef] is wild dragonian who grew up in the forests.</Dragonian_Wild.baseDescription>
+
+  <Dragonian_SlaveChild.title>Abandoned Dragonian</Dragonian_SlaveChild.title>
+  <Dragonian_SlaveChild.titleShort>Abandoned</Dragonian_SlaveChild.titleShort>
+  <Dragonian_SlaveChild.baseDescription>[PAWN_nameDef] is a dragonian taken from the wild and raised by human hands.</Dragonian_SlaveChild.baseDescription>
+
+  <Dragonian_Slave.title>Abandoned Dragonian</Dragonian_Slave.title>
+  <Dragonian_Slave.titleShort>Abandoned</Dragonian_Slave.titleShort>
+  <Dragonian_Slave.baseDescription>[PAWN_nameDef] is a dragonian taken from the wild and raised by human hands.</Dragonian_Slave.baseDescription>
+
+
+</LanguageData>
