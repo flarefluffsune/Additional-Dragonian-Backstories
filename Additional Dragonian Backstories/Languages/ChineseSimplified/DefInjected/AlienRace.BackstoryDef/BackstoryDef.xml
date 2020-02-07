@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CHILD BACKSTORIES -->
+
+  <MDB_C01.title>被收养的幼龙</MDB_C01.title>
+  <MDB_C01.titleShort>领养的龙人</MDB_C01.titleShort>
+  <MDB_C01.baseDescription>[PAWN_nameDef] 从小就从野外被领养长大。随着 [PAWN_pronoun] 的成长，她们似乎喜欢烹饪，喜欢吃东西，即使它是一堆杂七杂八的食材。</MDB_C01.baseDescription>
+
+  <MDB_C02.title>温柔的野生幼龙</MDB_C02.title>
+  <MDB_C02.titleShort>龙人树艺师</MDB_C02.titleShort>
+  <MDB_C02.baseDescription>[PAWN_nameDef] 在野外长大，生活在与自然平衡的环境中，倾向于种植植物的生活。</MDB_C02.baseDescription>
+
+  <MDB_C03.title>住在隧道的幼龙</MDB_C03.title>
+  <MDB_C03.titleShort>穴居龙人</MDB_C03.titleShort>
+  <MDB_C03.baseDescription>[PAWN_nameDef] 是在一个洞穴系统中长大的，通过挖掘隧道来种植生长的各种真菌。她们很少冒险走出家中黑暗的隧道。</MDB_C03.baseDescription>
+
+  <MDB_C04.title>从事盗窃的幼龙</MDB_C04.title>
+  <MDB_C04.titleShort>盗贼龙人</MDB_C04.titleShort>
+  <MDB_C04.baseDescription>[PAWN_nameDef] 在很小的时候就学会了从那些为了自己邪恶的兴趣而前往边缘世界的闪耀世界富裕公民那偷取令人愉悦的物品。</MDB_C04.baseDescription>
+
+  <MDB_C05.title>龙族仙童</MDB_C05.title>
+  <MDB_C05.titleShort>龙人仙童</MDB_C05.titleShort>
+  <MDB_C05.baseDescription>[PAWN_nameDef] 拥有与生俱来的天赋。然而，清洁工作仍然超出了他们的能力范围。由于她们的智力，他们的生活有点与世隔绝，几乎没有朋友，也缺乏社交技能。</MDB_C05.baseDescription>
+
+  <MDB_C06.title>龙族学徒</MDB_C06.title>
+  <MDB_C06.titleShort>龙人学徒</MDB_C06.titleShort>
+  <MDB_C06.baseDescription>[PAWN_nameDef] 从小就从野外被领养长大。他们变得不喜欢把手弄得很脏，而是喜欢研究实验室的那些干净光亮的工作站，因为随着他们的成长，他们更喜欢研究实验室的那些干净光亮的工作站。</MDB_C06.baseDescription>
+
+  <MDB_C07.title>龙族农家子弟</MDB_C07.title>
+  <MDB_C07.titleShort>龙人农家子弟</MDB_C07.titleShort>
+  <MDB_C07.baseDescription>[PAWN_nameDef] 是在农场长大的，在饲养牲畜和种植庄稼的日常生活中可以提供帮助。</MDB_C07.baseDescription>
+
+  <MDB_C08.title>出逃的幼龙</MDB_C08.title>
+  <MDB_C08.titleShort>龙人出逃者</MDB_C08.titleShort>
+  <MDB_C08.baseDescription>[PAWN_nameDef] 在他们年轻的大部分时间里都在边缘世界游荡，学习许多方面的生存技能，主要是通过使用他们得到的交通工具来偷渡旅行。他们与世隔绝，他们的孤独和有点神秘的生活让他们几乎没有什么可交谈的。</MDB_C08.baseDescription>
+
+
+  <!-- ADULT BACKSTORIES -->
+
+  <MDB_A01.title>龙族助理厨师</MDB_A01.title>
+  <MDB_A01.titleShort>龙人厨师助理</MDB_A01.titleShort>
+  <MDB_A01.baseDescription>[PAWN_nameDef] 在遥远的闪耀世界里和某人一起接受助理厨师的培训，用他们微妙的嗅觉和味觉完善菜肴。 然而， [PAWN_pronoun] 被抛弃在边缘世界上上，取而代之的是另一个人却出名了。</MDB_A01.baseDescription>
+
+  <MDB_A02.title>龙族森林守卫者</MDB_A02.title>
+  <MDB_A02.titleShort>龙人守卫</MDB_A02.titleShort>
+  <MDB_A02.baseDescription>在森林里的生活变得与大自然非常亲近之后 [PAWN_nameDef] 就不再喜欢奢侈品，而以野莓和水果为生。</MDB_A02.baseDescription>
+
+  <MDB_A03.title>龙族野性保镖</MDB_A03.title>
+  <MDB_A03.titleShort>龙人保镖</MDB_A03.titleShort>
+  <MDB_A03.baseDescription>[PAWN_nameDef] 从小被抚养长大，在圈养中长大，被迫奋力保护自己的主人，几乎不关心自己。在一场打斗中受伤后，[PAWN_nameDef] 被留在了后面，没有人理睬他们，迫使他们重新振作起来，艰苦的生活让她们除了盲目的暴力之外几乎没有什么技能。</MDB_A03.baseDescription>
+
+  <MDB_A04.title>龙族交际花</MDB_A04.title>
+  <MDB_A04.titleShort>龙娘交际花</MDB_A04.titleShort>
+  <MDB_A04.baseDescription>被从野外带回来后，[PAWN_nameDef] 被精心培养和训练来为闪耀世界的富人们服务。一旦下一个更好看的出现，她们就会被抛弃。</MDB_A04.baseDescription>
+
+  <MDB_A05.title>龙族陪同伴侣</MDB_A05.title>
+  <MDB_A05.titleShort>龙娘仆从</MDB_A05.titleShort>
+  <MDB_A05.baseDescription>[PAWN_nameDef] 是一个来自耀眼世界的人的伴侣，对他们来说，只是一个卑微的仆从，更像是一个让人赏心悦目的花瓶，后来他们去了边缘世界旅行，然后把 [PAWN_nameDef] 抛弃了</MDB_A05.baseDescription>
+
+  <MDB_A06.title>龙族公民</MDB_A06.title>
+  <MDB_A06.titleShort>龙人公民</MDB_A06.titleShort>
+  <MDB_A06.baseDescription>[PAWN_nameDef] 从野外融入一个小的边缘世界聚居地，在需要帮助的地方提供帮助，努力并成长为普通的边缘公民，成为各行各业的全能人才</MDB_A06.baseDescription>
+
+  <MDB_A07.title>龙族放牧人</MDB_A07.title>
+  <MDB_A07.titleShort>游牧龙人</MDB_A07.titleShort>
+  <MDB_A07.baseDescription>在边缘世界里，很多农产品都来自牲畜。[PAWN_nameDef] 一直都在帮助照顾农场的牲畜，以最大限度地利用他们的动物资源。她不太关心生活中富裕的一面，反而觉得照顾动物是让她们高兴的事情。</MDB_A07.baseDescription>
+
+  <MDB_A08.title>龙族植物学家</MDB_A08.title>
+  <MDB_A08.titleShort>龙人植物学家</MDB_A08.titleShort>
+  <MDB_A08.baseDescription>根据土壤质量的不同，有时在边缘世界种植作物可能会很困难，[PAWN_nameDef] 是一位植物学家。然而在[PAWN_pronoun]的技艺面前，足以让整个边缘世界的人都叹为观止。不过，她们肯定讨厌岩石和洞穴。</MDB_A08.baseDescription>
+
+
+  <!-- ORIGINAL STUFF BELOW -->
+
+  <Dragonian_WildChild.title>Dragonian Wild Born</Dragonian_WildChild.title>
+  <Dragonian_WildChild.titleShort>Wild Born</Dragonian_WildChild.titleShort>
+  <Dragonian_WildChild.baseDescription>[PAWN_nameDef] is wild dragonian who grew up in the forests.</Dragonian_WildChild.baseDescription>
+
+  <Dragonian_Wild.title>Wild Dragonian</Dragonian_Wild.title>
+  <Dragonian_Wild.titleShort>Wild Dragonian</Dragonian_Wild.titleShort>
+  <Dragonian_Wild.baseDescription>[PAWN_nameDef] is wild dragonian who grew up in the forests.</Dragonian_Wild.baseDescription>
+
+  <Dragonian_SlaveChild.title>Abandoned Dragonian</Dragonian_SlaveChild.title>
+  <Dragonian_SlaveChild.titleShort>Abandoned</Dragonian_SlaveChild.titleShort>
+  <Dragonian_SlaveChild.baseDescription>[PAWN_nameDef] is a dragonian taken from the wild and raised by human hands.</Dragonian_SlaveChild.baseDescription>
+
+  <Dragonian_Slave.title>Abandoned Dragonian</Dragonian_Slave.title>
+  <Dragonian_Slave.titleShort>Abandoned</Dragonian_Slave.titleShort>
+  <Dragonian_Slave.baseDescription>[PAWN_nameDef] is a dragonian taken from the wild and raised by human hands.</Dragonian_Slave.baseDescription>
+
+
+</LanguageData>
