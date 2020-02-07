@@ -9,6 +9,6 @@
     <loadAfter>
         <li>DragonianRace</li>
     </loadAfter>
-    <manifestUri>https://raw.githubusercontent.com/flarefluffsune/Additional-Dragonian-Backstories/master/Additional%20Dragonian%20Backstories/About/Manifest.xml</manifestUri>
+    <manifestUri>https://raw.githubusercontent.com/flarefluffsune/Additional-Dragonian-Backstories/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/flarefluffsune/Additional-Dragonian-Backstories</downloadUri>
 </Manifest>
